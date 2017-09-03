@@ -1,2 +1,3 @@
-
-alerrt("Epilepsy Warning")
+$(document).ready(function() {
+alert("Epilepsy Warning")
+});
